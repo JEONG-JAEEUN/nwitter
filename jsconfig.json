@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "baseUrl":"src"
+    },
+    "include":["src"]
+}
+// 경로를 잡을 때 
+// ../abc가 아니라 components/app 처럼 더 편하게 잡게?
